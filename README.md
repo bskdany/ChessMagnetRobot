@@ -24,4 +24,4 @@ https://user-images.githubusercontent.com/54674556/177008927-394a58bb-d777-4074-
 
 
 <br />
-This was made in three days after christmas while I was sick from covid so it seems to be pretty good ngl
+This was made in three days after christmas while I was sick from covid, not gonna lie it turned out pretty good
