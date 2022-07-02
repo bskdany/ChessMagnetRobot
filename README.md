@@ -10,7 +10,7 @@ The script works like that:</br>
 4) a pathfinding algorithm chooses a way to move the piece from the start square to the end square</br>
 5) tha magnet releases the chess piece and gets to the starting position</br>
 
-This is the result</br>
+This is the result (yeah we drew the chessboard unevenly)</br>
 
 
 
@@ -23,6 +23,4 @@ https://user-images.githubusercontent.com/54674556/177008927-394a58bb-d777-4074-
 
 
 <br />
-<br />
-<br />
-This was made in three days after christmas while I was sick from covid so don't judge the bad quality lol
+This was made in three days after christmas while I was sick from covid so it seems to be pretty good ngl
