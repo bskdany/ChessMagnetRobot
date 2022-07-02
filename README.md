@@ -1,5 +1,5 @@
 # CheckMate
-## An arduino script to make a robot play chess </br>
+### An arduino script to make a robot play chess </br>
 </br>
 This was my first project in C++ and I did it to help a friend of mine with his high school graduaton project in robotics</br>
 There are two rails that move a magnet underneath the chessboard</br>
