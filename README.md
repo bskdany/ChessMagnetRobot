@@ -1,5 +1,7 @@
 # ChessMagnetRobot
-### An arduino script to make a robot play chess </br> Blogpost: https://bskdany.com/posts/chess-robot/
+### An arduino script to make a robot play chess </br> 
+
+Blogpost: https://bskdany.com/posts/chess-robot/
 </br>
 
 
